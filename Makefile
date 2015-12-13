@@ -32,8 +32,8 @@ endif
 # PTLSIM_HYPERVISOR=1
 
 # For GCC versions > 4.2 install version 4.2 and uncomment the following line:
-#CC = g++-4.2
-CC = g++
+CC = g++-4.8.4
+#CC = g++
 
 GCCVER_SPECIFIC =
 
